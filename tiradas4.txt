@@ -1,0 +1,60 @@
+pepe 1
+1
+1
+alberto 3
+1
+1
+javier
+1
+1
+ruben
+2
+6
+pedro
+2
+5
+pepe
+1
+1
+rigoberto
+2
+6
+javier rod.
+2
+5
+pepe w.
+1
+2
+desmos
+2
+6
+x 1
+3
+3
+x 2
+3
+3
+x 3
+3
+3
+x 4
+3
+3
+x 5
+3
+3
+x 6
+3
+3
+x 7
+3
+3
+x 8
+3
+3
+x 9
+3
+3
+x 10
+3
+3

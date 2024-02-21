@@ -1,0 +1,33 @@
+pepe 1
+1
+1
+alberto 3
+1
+1
+javier
+1
+1
+ruben
+2
+6
+pedro
+2
+5
+pepe
+1
+1
+rigoberto
+2
+6
+javier rod.
+2
+5
+pepe w.
+1
+2
+desmos
+2
+6
+phobos
+1
+3
